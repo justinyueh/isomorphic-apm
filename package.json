@@ -7,7 +7,7 @@
   "scripts": {
     "test": "exit 0"
   },
-  "author": "yufeng@fangdd.com",
+  "author": "justin.yueh@gmail.com",
   "license": "ISC",
   "dependencies": {
     "elastic-apm-js-base": "^0.10.0",
