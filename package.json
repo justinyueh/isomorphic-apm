@@ -1,0 +1,16 @@
+{
+  "name": "isomorphic-apm",
+  "version": "1.0.0",
+  "description": "Isomorphic Apm api, for the browser and node.js",
+  "main": "apm-node.js",
+  "browser": "apm-browser.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "yufeng@fangdd.com",
+  "license": "ISC",
+  "dependencies": {
+    "elastic-apm-js-base": "^0.10.0",
+    "elastic-apm-node": "^1.10.2"
+  }
+}
