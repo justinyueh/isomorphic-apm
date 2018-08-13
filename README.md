@@ -8,8 +8,7 @@ Isomorphic Apm api, for the browser and node.js
 
 ## Getting Started
 
-- `npm set registry http://gitlab.esf.fangdd.net:61627`
-- `npm install @fdd/isomorphic-apm`
+- `npm install isomorphic-apm`
 
 
 ## Features
@@ -25,7 +24,7 @@ Isomorphic Apm api, for the browser and node.js
 ## Example
 
 ```
-import apm from '@fdd/isomorphic-apm';
+import apm from 'isomorphic-apm';
 
 const myApm = apm.start({
   // Set required app name (allowed characters: a-z, A-Z, 0-9, -, _, and space)
