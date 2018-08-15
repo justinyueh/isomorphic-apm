@@ -58,4 +58,4 @@ const myApm = apm.start({
 
 ## License
 
-[MIT License]
+[MIT License](https://opensource.org/licenses/MIT)
