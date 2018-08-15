@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-apm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Isomorphic Apm api, for the browser and node.js",
   "registry": "https://github.com/justinyueh/isomorphic-apm.git",
   "main": "apm-node.js",
@@ -8,10 +8,16 @@
   "scripts": {
     "test": "exit 0"
   },
+  "keywords": [
+    "elastic-apm-node",
+    "elastic-apm-js-base",
+    "isomorphic",
+    "apm"
+  ],
   "author": "justin.yueh@gmail.com",
   "license": "MIT License",
   "dependencies": {
-    "elastic-apm-js-base": "^0.10.0",
+    "elastic-apm-js-base": "^0.10.1",
     "elastic-apm-node": "^1.10.2"
   }
 }
