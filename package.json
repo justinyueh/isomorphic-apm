@@ -1,8 +1,9 @@
 {
   "name": "isomorphic-apm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Isomorphic Apm api, for the browser and node.js",
   "registry": "https://github.com/justinyueh/isomorphic-apm.git",
+  "homepage": "https://github.com/justinyueh/isomorphic-apm",
   "main": "apm-node.js",
   "browser": "apm-browser.js",
   "scripts": {
